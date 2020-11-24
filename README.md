@@ -1,8 +1,8 @@
 # advent-calendar-2020
 
-(This is a collection of information on the Advent Calendar held in 2020.)
+This is a collection of information on the Advent Calendar held in 2020.
 
-(The URL for the advent calendar is [here(Japanese)](https://adventar.org/calendars/5546).)
+The URL for the advent calendar is [here(Japanese)](https://adventar.org/calendars/5546).
 
 ## Table of Contents
 - [Introduction](#Introduction)

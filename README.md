@@ -11,8 +11,8 @@
 
 (When you want to check each organization's Advent Calendar, please push the following URLs)
 
-- [OUCC](https://github.com/OUCC/advent-calendar-2020/blob/OUCC/README.md)
-- [CSSA](https://github.com/OUCC/advent-calendar-2020/blob/CSSA/README.md)
+- [OUCC](https://github.com/OUCC/advent-calendar-2020/tree/OUCC/OUCC)
+- [CSSA](https://github.com/OUCC/advent-calendar-2020/tree/CSSA/CSSA)
 
 ## 日程が決まったもの(The dates which have been determined to publish)
 - [ ] 12/1

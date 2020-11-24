@@ -1,9 +1,11 @@
 # advent-calendar-2020
 2020年開催のアドベントカレンダーの備忘録です。
-This is a collection of information on the advent calendar held in 2020.
+
+(This is a collection of information on the Advent Calendar held in 2020.)
 
 アドベントカレンダーのURLは[こちら](https://adventar.org/calendars/5546)になります。
-The URL for the advent calendar is [here(Japanese)](https://adventar.org/calendars/5546).
+
+(The URL for the advent calendar is [here(Japanese)](https://adventar.org/calendars/5546).)
 
 ## 目次(Table of Contents)
 - [紹介](#紹介)

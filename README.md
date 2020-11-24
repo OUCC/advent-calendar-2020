@@ -9,7 +9,7 @@
 
 各団体のアドベントカレンダーが見たい場合は以下のURLからお願いします。
 
-(When you want to check each organization's Advent Calendar, please push following the following URLs)
+(When you want to check each organization's Advent Calendar, please push the following URLs)
 
 - [OUCC](https://github.com/OUCC/advent-calendar-2020/blob/OUCC/README.md)
 - [CSSA](https://github.com/OUCC/advent-calendar-2020/blob/CSSA/README.md)
